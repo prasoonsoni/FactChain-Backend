@@ -1,0 +1,13 @@
+1. Install Packages
+    - npm i express
+    - npm i -D nodemon // installed as dev dependencies to run -> npx nodemon index.js
+    - npm i mongoose
+    - npm i bcryptjs
+    - npm i jsonwebtoken
+    - npm i dotenv
+    - npm i cors
+    - npm i web3
+    - npm i ethers
+
+2. Create index.js file
+3. Create Account on Infura.
